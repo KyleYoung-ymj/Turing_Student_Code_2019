@@ -18,3 +18,4 @@ string_utility.o: string_utility.cpp string_utility.h
 
 clean:
 	rm $(objects)
+
